@@ -1,0 +1,28 @@
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"level":"error","message":"Invalid status code: 12345"}
+{"level":"error","message":"data and hash arguments required"}
+{"level":"error","message":"data and hash arguments required"}
+{"level":"error","message":"data and hash arguments required"}
+{"level":"error","message":"user is not defined"}
+{"level":"error","message":"\"expiresIn\" should be a number of seconds or string representing a timespan"}
+{"level":"error","message":"cacheCode is not a function"}
+{"level":"error","message":"req is not defined"}
+{"level":"error","message":"Cannot read properties of null (reading 'phoneOrEmail')"}
+{"level":"error","message":"data and hash arguments required"}
+{"level":"error","message":"data and hash arguments required"}
+{"level":"error","message":"Cannot read properties of null (reading 'phoneOrEmail')"}
+{"level":"error","message":"Cannot read properties of null (reading 'phoneOrEmail')"}
+{"level":"error","message":"Cannot read properties of null (reading 'phoneOrEmail')"}
+{"level":"error","message":"Cannot read properties of null (reading 'password')"}
+{"level":"error","message":"The \"data\" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined"}
+{"level":"error","message":"The \"data\" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined"}
+{"level":"error","message":"The \"data\" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined"}
+{"level":"error","message":"The \"data\" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined"}
+{"level":"error","message":"The \"data\" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined"}
+{"level":"error","message":"The \"data\" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined"}
+{"level":"error","message":"ENOENT: no such file or directory, unlink 'C:\\Users\\rezaa\\Desktop\\test\\node/public/upload/profile/JPH3QXV9G_233972.jpg'"}
+{"level":"error","message":"ENOENT: no such file or directory, unlink 'C:\\Users\\rezaa\\Desktop\\test\\node/public/upload/profile/JPH3QXV9G_233972.jpg'"}
+{"level":"error","message":"ENOENT: no such file or directory, open 'C:\\Users\\rezaa\\Desktop\\test\\node/upload/ticket'"}
+{"level":"error","message":"EISDIR: illegal operation on a directory, open 'C:\\Users\\rezaa\\Desktop\\test\\node/public/upload/ticket'"}
+{"level":"error","message":"Cannot read properties of null (reading '_id')"}
